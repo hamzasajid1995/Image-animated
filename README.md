@@ -1,6 +1,6 @@
-# Image-animated
+# Image-animated - ReactJs
 
-Higher Order Component for <img/>
+React Higher Order Component for <img/>
 
 ## Features
 - Show image with animation on load instead of unpleasent flashing or flickring.
